@@ -10,9 +10,6 @@ django-ckeditor==6.0.0
 django-cors-headers==3.13.0
 django-crispy-forms==1.10.0
 django-filter==22.1
-django-friendship==1.8.2
-django-heroku==0.3.1
-django-js-asset==1.2.2
 django-language-field==0.0.3
 django-popup-forms==1.0.3
 django-rest-multiple-models==2.1.3
